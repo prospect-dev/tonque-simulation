@@ -1,5 +1,7 @@
 # Tonque survey simulations
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/prospect-dev/tonque-simulation/main?urlpath=lab/tree/tonque.ipynb)
+
 This notebook recreates the Tonque experimental survey reported in 
 
 >Wandsnider, L., Camilli, E.L., 1992. The Character of Surface Archaeological Deposits and Its Influence on Survey Accuracy. J. Field Archaeol. 19, 169–188. https://doi.org/10.2307/529977 
