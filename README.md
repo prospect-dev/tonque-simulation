@@ -1,7 +1,7 @@
 # Tonque survey simulations
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/zenodo/10.5281/zenodo.4495999/?urlpath=lab%2Ftree%2Ftonque.ipynb) 
-[![DOI](https://zenodo.org/badge/157437912.svg)](https://zenodo.org/badge/latestdoi/157437912)
+[![DOI](https://zenodo.org/badge/334802388.svg)](https://zenodo.org/badge/latestdoi/334802388)
 
 This notebook recreates the Tonque experimental survey reported in 
 
